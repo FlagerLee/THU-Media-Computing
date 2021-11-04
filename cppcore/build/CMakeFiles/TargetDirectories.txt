@@ -1,0 +1,3 @@
+/home/flagerlee/Desktop/MediaProc/build/CMakeFiles/edit_cache.dir
+/home/flagerlee/Desktop/MediaProc/build/CMakeFiles/rebuild_cache.dir
+/home/flagerlee/Desktop/MediaProc/build/CMakeFiles/MediaProc.dir

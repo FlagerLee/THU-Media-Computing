@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MediaProc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MediaProc">
+				<Option output="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/MediaProc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediaProc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MediaProc/fast">
+				<Option output="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/MediaProc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 MediaProc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/flagerlee/Desktop/MediaProc/cppcore/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_completion.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_completion.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_compositing.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_compositing.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_matting.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_matting.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_resizing.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_resizing.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_video_edit_v1.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_video_edit_v1.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_video_edit_v2.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/img_video_edit_v2.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/library.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/library.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/main.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/transfer_color.cpp">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/transfer_color.h">
+			<Option target="MediaProc"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/flagerlee/Desktop/MediaProc/cppcore/../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
