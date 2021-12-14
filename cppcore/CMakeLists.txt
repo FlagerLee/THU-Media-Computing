@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
-project(MediaProc)
+project(cppcore)
 
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 14)
 
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
@@ -15,6 +15,7 @@ set(HEADER
         img_matting.h
         img_resizing.h
         img_compositing.h
+        img_proc.h
 )
 
 set(SOURCE
@@ -26,6 +27,7 @@ set(SOURCE
         img_matting.cpp
         img_resizing.cpp
         img_compositing.cpp
+        img_proc.cpp
 )
 
 if(BUILD_LIBRARY)
